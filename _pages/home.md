@@ -14,15 +14,15 @@ permalink: /
 
 # My tech
 
-### DevOps and IT Operations (from 12/2016 until now):
+### DevOps and IT Operations (from 12/2016 until now)
  
  > At [TTTech Computertechnik AG](https://www.tttech.com/), I have my day full of automation, integration, testing and supports. I am improving the development process of thousands developers.
 
-### Cloud, network and IoT (3/2013 to 10/2016):*
+### Cloud, network and IoT (3/2013 to 10/2016)
  
 > At [TU Wien](https://www.tuwien.at/), I read papers, prototyped research ideas and consumed coffee. That was an amazing but the most challenging time in my life (so far).
 
-### Cluster, GPU, Grid (before 2013):
+### Cluster, GPU, Grid (before 2013)
 
 > At [HUST](https://en.hust.edu.vn/), I learnt the systems and rolled into the research. It was fun with full energy of young.
 
@@ -50,11 +50,11 @@ permalink: /
 * Software is complex!
 > * No, software should be simple and nice. Human is complex.
 * You can do anything, keep walking!
-> * No, you can't do everything. Life is full of choices and you should only go for what are important to you.  
+> * No, you cannot do everything. Life is full of choices and you should only go for what important to you.  
 > * The same when crafting software.
 * First you do the right thing, then you do the thing right.
 > * Ok-ish, but I do not (fully) believe in the right thing. I take decisions and make them right.  
->  * The same when crafting software.
+> * The same when crafting software.
 
 # Me on the Internet
 
