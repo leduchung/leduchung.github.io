@@ -16,7 +16,7 @@ permalink: /
 
 ### DevOps and IT Operations (from 12/2016 until now)
  
- > At [TTTech Computertechnik AG](https://www.tttech.com/), I have my day full of automation, integration, testing and supports. I am improving the development process of thousands developers.
+ > At [TTTech Computertechnik AG](https://www.tttech.com/), I have my days full of automation, integration, testing and supports. I am improving the development processes of thousands developers.
 
 ### Cloud, network and IoT (3/2013 to 10/2016)
  
@@ -24,25 +24,34 @@ permalink: /
 
 ### Cluster, GPU, Grid (before 2013)
 
-> At [HUST](https://en.hust.edu.vn/), I learnt the systems and rolled into the research. It was fun with full energy of young.
+> At [HUST](https://en.hust.edu.vn/), I learned the systems and rolled into the research. Time back then was fun with full energy of young.
 
 # My skill set
 
 ### DevOps toolchain: 
+
  - *Applications:* Jira, Confluence, Bitbucket, Artifactory, Jenkins, SmartBear Collaborator, EasyBI
  - *Components:* Apache and Nginx, LDAP, Kerberos, PostgreSQL
  - *Infrastructure:* Ansible, VMware, Docker, Ubuntu/Redhat, Check_MK (monitoring), Splunk
+
 ### DevOps and automation:
+
  - *Automation:* Python, ShellScript, REST API
  - *Plugin/extension development:* Python, Java, Atlassian SDK
+
 ### Application development: 
+
  - Java/Kotlin + SpringBoot, PostgreSQL, MongoDB/OrientDB, Junit + SpringBoot Test
  - HTML + CSS, JavaScript, PrimeFaces, PHP
  - Andoid SDK
  - AMQP, MMQP
+
 ### IDE and tools: 
+
 -  VSCode, Intellij IDEA, Latex, Markdown
+
 ### Teamwork: 
+
  - Scrum
 
 # My philosophy 
