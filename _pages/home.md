@@ -32,7 +32,8 @@ permalink: /
 
  - *Applications:* Jira, Confluence, Bitbucket, Artifactory, Jenkins, SmartBear Collaborator, EasyBI
  - *Components:* Apache and Nginx, LDAP, Kerberos, PostgreSQL
- - *Infrastructure:* Ansible, VMware, Docker, Ubuntu/Redhat, Check_MK (monitoring), Splunk
+ - *Tools:* Ansible, Check_MK (monitoring), Splunk (log)
+ - *Infrastructure:* Ubuntu/Redhat, Docker, Google Cloud/Amazon EC2/OpenStack
 
 ### DevOps and automation:
 
@@ -44,7 +45,7 @@ permalink: /
  - Java/Kotlin + SpringBoot, PostgreSQL, MongoDB/OrientDB, Junit + SpringBoot Test
  - HTML + CSS, JavaScript, PrimeFaces, PHP
  - Andoid SDK
- - AMQP, MMQP
+ - AMQP, MQTT
 
 ### IDE and tools: 
 
