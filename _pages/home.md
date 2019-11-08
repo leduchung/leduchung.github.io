@@ -69,4 +69,5 @@ permalink: /
 
 - [LinkedIn](https://www.linkedin.com/in/duchungle/)
 - [Google Scholar](https://scholar.google.at/citations?user=rfQs0CQAAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Hung_Le_Duc)
 - [Youtube (private life)](https://www.youtube.com/user/hungld86/videos)
