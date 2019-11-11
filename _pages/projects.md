@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /projects
+permalink: /projects/
 ---
 
 # Site projects
@@ -9,7 +9,7 @@ permalink: /projects
 
 # At TU Wien (03/2013-10/2016)
 
- - [HINC: Harmonizing IoT, Network functions and Clouds (maintain)](http://sincconcept.github.io/HINC/).
+ - [HINC: Harmonizing IoT, Network functions and Clouds (maintain)](https://github.com/SINCConcept/HINC).
  - [TEIT: a Toolset for Emulated IoT Testbed (maintain, contribute)](https://ellapham.github.io/TEIT/)
  - [SALSA: A framework for dynamic configuration of IoT Cloud Systems (maintain)](http://tuwiendsg.github.io/SALSA/)
  - [iCOMOT: for Control, Monitoring, Governance and Configuration of IoT Cloud Systems (maintain, contribute)](http://tuwiendsg.github.io/iCOMOT/)
