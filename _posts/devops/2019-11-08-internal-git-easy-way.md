@@ -4,7 +4,7 @@ categories:
  - devops
 tags:
  - git
-last_modified_at: 2019-11-08
+last_modified_at: 2019-11-15
 ---
 
 Not so many documentations about [Git](https://git-scm.com/) mention about the remote-tracking references. Here we can revise how Git work with remote.
@@ -52,7 +52,7 @@ Then, you will see the [`git commit`](https://git-scm.com/docs/git-commit) and [
 
 ## The backup area
 
-The `stash` area is not a common but still an useful feature. When you think your code is crap (yes it is) and you must delete it but hesitate to do so, then do [`git stash`](https://git-scm.com/docs/git-stash) to save you changes and reversed your unstaged work.
+The `stash` area is not a common but still a useful feature. When you think your code is crap (yes it is) and you must delete it but hesitate to do so, then do [`git stash`](https://git-scm.com/docs/git-stash) to save you changes and reversed your unstaged work.
 
 ## The best documentation of Git
 
