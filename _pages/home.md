@@ -10,7 +10,6 @@ permalink: /
 - Backend/full-stack developer
 - Research engineer
 - DevOps engineer
-- Software craftsmanship
 
 # My tech
 
@@ -47,6 +46,11 @@ permalink: /
  - Andoid SDK
  - AMQP, MQTT
 
+### Automation test:
+
+ - Java: SpringBootTest, JUnit
+ - Python: Behave, unittest, pytest
+
 ### IDE and tools: 
 
 -  VSCode, Intellij IDEA, Latex, Markdown
@@ -64,7 +68,7 @@ permalink: /
 > * The same when crafting software.
 * First you do the right thing, then you do the thing right.
 > * Ok-ish, but I do not (fully) believe in the right thing. I take decisions and make them right.  
-> * The same when crafting software.
+> * The same for software craftmanship.
 
 # Me on the Internet
 
