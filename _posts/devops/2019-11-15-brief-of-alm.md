@@ -3,7 +3,8 @@ title: "Beginning Application Lifecycle Management - the notes"
 categories:
  - devops
 tags:
- - ALM, book
+ - ALM
+ - book
 last_modified_at: 2019-11-15
 ---
 

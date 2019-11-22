@@ -1,0 +1,13 @@
+<div class="page__meta">
+    {% if post.read_time %}
+        <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+    {% endif %}    
+    &nbsp;
+    {% if post.last_modified_at %}
+        <i class="fas fa-fw fa-calendar-alt"></i><time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%d/%m/%Y" }}</time>
+    {% endif %}
+    &nbsp;
+    {% include category.html %}
+    &nbsp;
+    {% include tag.html %}
+  </div>
