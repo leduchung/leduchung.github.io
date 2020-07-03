@@ -12,7 +12,7 @@ What forms the value of an application? Let us talk about kinds of value.
 
 We will discuss the quadrant below as the picture says itself
 
-<img style="float: right;" width="400" src="/images/technical-debt.png">
+![drawing](/images/technical-debt.png)
 
 # Feature, the visible positive value
 
