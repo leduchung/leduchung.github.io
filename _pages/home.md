@@ -7,7 +7,8 @@ permalink: /
 
 # My core
 
-- Backend/full-stack developer
+- Application architect
+- Full-stack developer
 - Research engineer
 - DevOps engineer
 
@@ -41,10 +42,10 @@ permalink: /
 
 ### Application development: 
 
- - Java/Kotlin + SpringBoot, PostgreSQL, MongoDB/OrientDB, Junit + SpringBoot Test
- - HTML + CSS, JavaScript, PrimeFaces, PHP
- - Andoid SDK
- - AMQP, MQTT
+ - Mobile Apps: Flutter + Dart
+ - Backend :Java/Kotlin + SpringBoot, PostgreSQL, MongoDB/OrientDB, Junit + SpringBoot Test
+ - Web: HTML + CSS, JavaScript, PrimeFaces, PHP
+ - Others: AMQP, MQTT, REST API
 
 ### Automation test:
 
